@@ -20,5 +20,18 @@
             android:id="@+id/nav_brouser"
             android:icon="@android:drawable/ic_menu_share"
             android:title="@string/brouser" />
+        <item
+            android:id="@+id/doodle"
+            android:icon="@color/teal_200"
+            android:title="Interes" />
+        <item
+            android:id="@+id/nav_camera"
+            android:icon="@drawable/ic_menu_camera"
+            android:title="profile" />
+        <item
+            android:id="@+id/nav_film"
+            android:icon="?android:attr/galleryItemBackground"
+            android:title="film" />
+
     </group>
 </menu>
